@@ -1,3 +1,5 @@
+Authors
+
 # Generating the self-recog dataset
 - in analysis.ipynb
 # Creation of selfpref_steering_vector
@@ -5,3 +7,4 @@
 # Generating steered outputss
 - new_steering_vector.ipynb
 # For steering vector analysis
+
