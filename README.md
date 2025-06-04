@@ -8,4 +8,5 @@ Check out our writeup [here](https://drive.google.com/uc?export=download&id=1uLj
 
 ## Repo Structure
 
-
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
