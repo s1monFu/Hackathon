@@ -4,9 +4,5 @@ This is the official repository for "Manipulating Self-Preference for Large Lang
 
 Check out our writeup [here](https://drive.google.com/uc?export=download&id=1uLjExfEY6_XaCW-hxTEsJGbLDcXhcSzy).
 
-## Setup
-
-## Repo Structure
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
