@@ -1,6 +1,6 @@
 # Manipulating Self-Preference for Large Language Models
 
-This is the official repository for "Manipulating Self-Preference for Large Language Models", a submission to the Apart Research x Martian Mechanistic Router Interpretability Hackathon by Matthew Nguyen, Dani Roytburg, Matthew Bozoukov, Jou Barzdukas, and Hongyu Fu.
+This is the official repository for "Manipulating Self-Preference for Large Language Models", a winning submission to the Apart Research x Martian Mechanistic Router Interpretability Hackathon by Matthew Nguyen, Dani Roytburg, Matthew Bozoukov, Jou Barzdukas, and Hongyu Fu.
 
 Check out our writeup [here](https://drive.google.com/uc?export=download&id=1uLjExfEY6_XaCW-hxTEsJGbLDcXhcSzy).
 
